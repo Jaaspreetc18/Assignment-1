@@ -1,0 +1,26 @@
+.chart {
+    -fx-background-color: #f4f4f4;
+    -fx-border-color: #d4d4d4;
+    -fx-padding: 10px;
+}
+
+.button {
+    -fx-background-color: #6200ee;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+}
+
+.scene {
+    -fx-background-color: #ffffff;
+    -fx-font-family: "Arial";
+}
+
+.table-view {
+    -fx-background-color: #ffffff;
+}
+
+.radio-button {
+    -fx-font-size: 14px;
+}
